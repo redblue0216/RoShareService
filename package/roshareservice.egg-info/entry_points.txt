@@ -1,0 +1,2 @@
+[console_scripts]
+roshareservicectl = roshareservice.cli:roshareservice
